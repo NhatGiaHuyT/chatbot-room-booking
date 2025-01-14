@@ -19,7 +19,3 @@ Clearly, SVM and Logistic Regression are the top two classifiers on this trainin
 3. Run ``` conda activate botEnv ```
 4. Run the bot flask application by ``` python app.py ```
 5. If you face any issues with the existing models, you can train afresh by deleting the **.joblib** files in the **models** folder and run ``` python botmodel.py ``` 
-
-![Image1](https://github.com/basel-ay/Room-Booking-Chatbot/blob/main/static/screenshots/shot1.png)
-![Image2](https://github.com/basel-ay/Room-Booking-Chatbot/blob/main/static/screenshots/shot2.png)
-![Image3](https://github.com/basel-ay/Room-Booking-Chatbot/blob/main/static/screenshots/shot3.png)
